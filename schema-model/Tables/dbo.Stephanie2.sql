@@ -1,0 +1,7 @@
+CREATE TABLE [dbo].[Stephanie2]
+(
+[ID] [int] NOT NULL
+)
+GO
+ALTER TABLE [dbo].[Stephanie2] ADD CONSTRAINT [PK__Stephani__3214EC2706FC2664] PRIMARY KEY CLUSTERED ([ID])
+GO
