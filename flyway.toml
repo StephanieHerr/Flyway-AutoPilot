@@ -24,6 +24,8 @@ validateMigrationNaming = true
 defaultSchema = "dbo"
 baselineOnMigrate = true
 baselineVersion = "001_20230703120714"
+publishResult = true 
+email = "stephanie.herr@red-gate.com"
 
 [flywayDesktop]
 developmentEnvironment = "development"
